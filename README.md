@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <b>SML VIDEO COMPRESSOR V10</b>
+  <b>SML VIDEO COMPRESSOR </b>
   <br>
 </h1>
 
